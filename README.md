@@ -10,3 +10,9 @@ ___
 
 * Instagram: [@justdheja](https://instagram.com/justdheja)
 * Blog: [panjaloo.media](https://panjaloo.media)
+
+___
+
+#### Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justdheja)](https://github.com/anuraghazra/github-readme-stats)
