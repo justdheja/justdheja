@@ -15,4 +15,4 @@ ___
 
 #### Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justdheja&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justdheja&show_icons=true&theme=radical)
