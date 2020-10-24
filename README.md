@@ -2,7 +2,6 @@
 
 👀 `I'm currently studying about front-end development and many cool things`  
 🎓 `I'm a student of Information Technology Gadjah Mada University`  
-🥼 `Front-End Engineer Intern at Mamikos.com`  
 🔬 `I do some personal & organization research / project`
 
 ___
