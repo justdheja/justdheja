@@ -1,4 +1,4 @@
-#### Hi! 
+<h2 align="center">Hi! I'm Dheja</h1>
 
 👀 `I'm currently studying about front-end development and many cool things`  
 🎓 `I'm a student of Information Technology Gadjah Mada University`  
@@ -10,9 +10,17 @@ ___
 
 * Instagram: [@justdheja](https://instagram.com/justdheja)
 * Blog: [panjaloo.media](https://panjaloo.media)
+* LinkedIn: [Dheja Daruna](https://linkedin.com/in/dheja-daruna/)
 
 ___
 
 #### Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justdheja&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justdheja&theme=radical" alt="justdheja" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=justdheja&show_icons=true&theme=radical" alt="justdheja" />
+</p>
