@@ -21,3 +21,6 @@ ___
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=justdheja&show_icons=true&theme=radical" alt="justdheja" />
 </p>
+
+___
+![Profile views](https://gpvc.arturio.dev/justdheja)
