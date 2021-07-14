@@ -9,7 +9,7 @@ ___
 #### 📞 Contact
 
 * Instagram: [@justdheja](https://instagram.com/justdheja)
-* Blog: [panjaloo.media](https://panjaloo.media)
+* Blog: [dhejadaruna.me/blog](https://dhejadaruna.me/blog)
 * LinkedIn: [Dheja Daruna](https://linkedin.com/in/dheja-daruna/)
 
 ___
