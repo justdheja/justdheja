@@ -1,4 +1,4 @@
-<h2 align="center">Hi! I'm Dheja</h1>
+<h2 align="center">Hello There 👋, I'm Dheja</h1>
 
 👀 `I'm currently studying about front-end development and many cool things`  
 🎓 `I'm a student of Information Technology Gadjah Mada University`  
