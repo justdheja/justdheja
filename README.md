@@ -5,16 +5,15 @@
 </div>
 
 
-👀 `I'm currently studying about front-end development and many cool things`  
-🎓 `I'm a student of Information Technology Gadjah Mada University`  
-🔬 `I do some personal & organization research / project`
+👀 `I'm currently studying about automation testing and many cool stuff`  
+:briefcase: `I'm a Quality Assurance [Engineer]`  
+🔬 `Sometimes I review film at`[sinema12](https://sinema12.site/review/)
 
 ___
 
 #### 📞 Contact
 
 * Instagram: [@justdheja](https://instagram.com/justdheja)
-* Blog: [dhejadaruna.me/blog](https://dhejadaruna.me/blog)
 * LinkedIn: [Dheja Daruna](https://linkedin.com/in/dheja-daruna/)
 
 ___
